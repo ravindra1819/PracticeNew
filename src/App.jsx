@@ -1,11 +1,11 @@
 import './App.css'
-import Parent from './Practice/Parent'
+import MainPage from './Pagination/MainPage'
 
 function App() {
 
   return (
 <>
-< Parent />
+<MainPage />
 </>
   )
 }
