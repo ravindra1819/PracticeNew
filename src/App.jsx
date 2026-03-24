@@ -1,11 +1,12 @@
 import './App.css'
-import MainPage from './Pagination/MainPage'
+import BillingPage from './BillingPage/BillingPage'
+
 
 function App() {
 
   return (
 <>
-<MainPage />
+<BillingPage />
 </>
   )
 }
